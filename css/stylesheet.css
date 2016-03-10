@@ -1,0 +1,139 @@
+body{
+	background-color: #e9eaed;
+	word-wrap: break-word;
+	font-size: 12px;
+}
+
+a{
+	text-decoration: none;
+	color: #141823;
+}
+
+i{
+	margin-left: 2px;
+}
+
+._clear{
+	clear: both;
+}
+
+#reviews_box{
+	font-family: helvetica, arial, sans-serif;
+	border: 1px solid #dcdee3;
+	border-radius: 1px;
+	background-color: white;
+	width: 343px;
+}
+
+	#reviews_box .reviews{
+		background-color: #f6f7f8;
+		color: #4e5665;
+		text-transform: uppercase;
+		font-size: 11px;
+		font-weight: bold;
+		height: 16px;
+		border-bottom: 1px solid #dcdee3;
+		line-height: 16px;
+		padding: 10px;
+	}
+
+		#reviews_box .reviews .arrow{
+			margin-top: 2px;
+			float: right;
+		}
+
+	#reviews_box .rating{
+		padding: 11px 12px;
+		border-bottom: 1px solid #dcdee3;
+	}
+
+		#reviews_box .rating .average{
+			float: left;
+			width: 38px;
+			height: 16px;
+			padding: 6px 9px;
+			background-color: #5890ff;
+			border-radius: 16px;
+			color: #ffffff;
+			font-size: 15px;
+			line-height: 16px;
+		}
+
+			#reviews_box .rating .average i{
+				font-size: 12px;
+				vertical-align: middle;
+			}
+
+		#reviews_box .rating .other_info{
+			float: left;
+			margin-left: 12px;
+			font-size: 12px;
+			line-height: 28px;
+		}
+
+			#reviews_box .rating .other_info .point{
+				font-weight: bold;
+			}
+
+	#reviews_box .rev_box{
+		padding: 14px 12px 9px;
+		border-bottom: 1px solid #dcdee3;
+	}
+
+		#reviews_box .rev_box:last-child{
+			border-bottom: none;
+		}
+
+		#reviews_box .rev_box img{
+			width: 32px;
+			height: 32px;
+			margin-right: 8px;
+			overflow: hidden;
+			float: left;
+		}
+
+		#reviews_box .rev_box .rev{
+			float: left;
+			width: 257px;
+			margin-right: 22px;
+			line-height: 18px;
+		}
+
+			#reviews_box .rev_box .rev .name{
+				color: #3b5998;
+				font-weight: bold;
+				float: left;
+			}
+
+				#reviews_box .rev_box .rev .name:hover{
+					text-decoration: underline;
+				}
+
+			#reviews_box .rev_box .rev .line_space{
+				float: left;
+				margin: 0 3px;
+			}
+
+			#reviews_box .rev_box .rev .vote{
+				float: left;
+				width: 14px;
+				height: 6px;
+				padding: 4px 5px;
+				background-color: #5890ff;
+				border-radius: 12px;
+				color: #ffffff;
+				font-size: 8px;
+				line-height: 6px;
+			}
+
+			#reviews_box .rev_box .rev .write{
+				float: left;
+				width: 257px;
+			}
+
+		#reviews_box .rev_box .time{
+			float: right;
+			width: 279px;
+			color: #9197a3;
+			line-height: 18px;
+		}
