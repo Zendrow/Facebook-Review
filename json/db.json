@@ -1,0 +1,73 @@
+{
+    "data": [
+        {
+            "created_time": "2017-07-18T17:08:58+0000",
+            "reviewer": {
+                "name": "Riccardo Biscaro",
+                "id": "1720921287941894"
+            },
+            "rating": 4,
+            "review_text": "Nel mezzo del cammin di nostra vita<br/>mi ritrovai per una selva oscura,<br/>ché la diritta via era smarrita."
+        },
+        {
+            "created_time": "2017-07-18T17:05:43+0000",
+            "reviewer": {
+                "name": "Riccardo Biscaro",
+                "id": "1720921287941894"
+            },
+            "rating": 5,
+            "review_text": "Ahi quanto a dir qual era è cosa dura<br/>esta selva selvaggia e aspra e forte<br/>che nel pensier rinova la paura!"
+        },
+        {
+            "created_time": "2017-07-18T17:05:43+0000",
+            "reviewer": {
+                "name": "Riccardo Biscaro",
+                "id": "1720921287941894"
+            },
+            "rating": 2,
+            "review_text": "Tant’è amara che poco è più morte;<br/>ma per trattar del ben ch’i’ vi trovai,<br/>dirò de l’altre cose ch’i’ v’ho scorte. "
+        },
+        {
+            "created_time": "2017-07-18T17:05:43+0000",
+            "reviewer": {
+                "name": "Riccardo Biscaro",
+                "id": "1720921287941894"
+            },
+            "rating": 5,
+            "review_text": "Io non so ben ridir com’i’ v’intrai,<br/>tant’era pien di sonno a quel punto<br/>che la verace via abbandonai.   "
+        },
+        {
+            "created_time": "2017-07-18T17:05:43+0000",
+            "reviewer": {
+                "name": "Riccardo Biscaro",
+                "id": "1720921287941894"
+            },
+            "rating": 4,
+            "review_text": "Ma poi ch’i’ fui al piè d’un colle giunto,<br/>là dove terminava quella valle<br/>che m’avea di paura il cor compunto,"
+        },
+        {
+            "created_time": "2017-07-18T17:05:43+0000",
+            "reviewer": {
+                "name": "Riccardo Biscaro",
+                "id": "1720921287941894"
+            },
+            "rating": 2,
+            "review_text": "guardai in alto e vidi le sue spalle<br/>vestite già de’ raggi del pianeta<br/>che mena dritto altrui per ogne calle.  "
+        },
+        {
+            "created_time": "2017-07-18T17:05:43+0000",
+            "reviewer": {
+                "name": "Riccardo Biscaro",
+                "id": "1720921287941894"
+            },
+            "rating": 3,
+            "review_text": "Allor fu la paura un poco queta,<br/>che nel lago del cor m’era durata<br/>la notte ch’i’ passai con tanta pieta."
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "before": "MTAwMDAwNDczNzc5Mjc4OjE4MTcxODg5NDg1OTQ5NTUZD",
+            "after": "MTAwMDAwNzIxMTc3MjE2OjE4MTcxODg5NDg1OTQ5NTUZD"
+        }
+    }
+}
