@@ -23,8 +23,31 @@ potete procedere in due modi:
 
 * server Lampp
 
+mettete la cartella del progetto nella cartella htdocs e collegatevi alla pagina
+
+```
+http://localhost/Facebook-Review-master
+```
+
+per mantenere la cartella htdocs più pulita suggerisco di creare una cartella projects dove mettere tutti i vostri progetti
+
 * server Python 
 
+aprite il terminale, spostatevi nella cartella del progetto e digitate per python 2.x
+
+```code-block
+py -m http.server [portNumber]
+```
+per python 3.x
+
+```code-block
+py -m http.server [portNumber]
+```
+basterà poi accedere dal browser alla pagina
+
+```code-block
+http://localhost:[portNumber]
+```
 ### utilizzare delle estensioni su chrome
 
 su chrome esiste un'estenione chiamata web server for chrome che può fare a caso vostro
@@ -32,7 +55,7 @@ su chrome esiste un'estenione chiamata web server for chrome che può fare a cas
 
 ## Configuration
 
-Se va tutto bene potrete finalmente fare le vostre modifiche per rendere mostrare le recensioni della vostra pagina.
+Se va tutto bene potrete finalmente fare le vostre modifiche per mostrare le recensioni della vostra pagina.
 
 Per portare a termine l'operazione dovrete avere
 
