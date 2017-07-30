@@ -7,7 +7,7 @@
 [![javascipt][license-image]][license-url]
 [![Jquery][swift-image]][swift-url]
 
-Other language: [English](readme.md), [Italiano](readme.it.md)
+Other language: [English](README.md), [Italiano](README.it.md)
 
 ## Table of Contents
 - [Installing / Getting started](## Installing / Getting started)
