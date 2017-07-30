@@ -9,6 +9,10 @@
 
 Other language: [English](readme.md), [Italiano](readme.it.md)
 
+## Table of Contents
+- [Installing / Getting started](## Installing / Getting started)
+    - [Primo Metodo - Firefox](### Primo Metodo - Firefox)
+
 ## Installing / Getting started
 
 Ciao a tutti per farlo funzionare ci sono alcune cose da fare, vi mostrerò alcuni metodi per vedere il funzionamento del servizio perchò ho viene usato il json per chiamare dei dati di esempio e utilizzando vari 
@@ -30,6 +34,10 @@ http://localhost/Facebook-Review-master
 ```
 
 per mantenere la cartella htdocs più pulita suggerisco di creare una cartella projects dove mettere tutti i vostri progetti
+
+```
+http://localhost/projects/Facebook-Review-master
+```
 
 * server Python 
 
