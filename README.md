@@ -4,3 +4,5 @@ Facebook Reviews Bootstrap Carousel
 apri index.html con firefox
 
 open index.html with firefox
+
+README in progress...
